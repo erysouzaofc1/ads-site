@@ -6,16 +6,16 @@
     "settings": {
         "name": "ES News Encurtador de Links",
         "author": "J,Erivanilson Souza",
-        "home_link": "https://github.com/flokX/devShort",
+        "home_link": "https://https://github.com/erysouzaofc1/ads-site",
         "favicon": "assets/icon.png",
         "custom_links": {
             "devShort wiki": "https://github.com/flokX/devShort/wiki",
-            "devShort author": "https://github.com/flokX"
+            "devShort author": "https://https://github.com/erysouzaofc1/"
         }
     },
     "shortlinks": {
-        "repo": "https://github.com/flokX/devShort",
+        "repo": "https://github.com/erysouzaofc1",
         "wiki": "https://github.com/flokX/devShort/wiki",
-        "author": "https://github.com/flokX"
+        "author": "https://github.com/erysouzaofc1"
     }
 }
