@@ -76,26 +76,26 @@ if ($config_content["settings"]["custom_links"]) {
         <div class="container">
             <h1 class="mt-5 text-center"><?php echo $config_content["settings"]["name"]; ?>
             </h1>
-            <h4 class="mb-4 text-center">admin panel</h4>
+            <h4 class="mb-4 text-center">Painel de Administração</h4>
             <div class="card mb-3">
                 <div class="card-body">
-                    <h5 class="card-title">Add shortlink <small><a id="refresh" href="#refresh" class="card-link">Refresh charts</a></small></h5>
+                    <h5 class="card-title">Adicione seus Links Aqui: <small><a id="refresh" href="#refresh" class="card-link">Recarregar Charts</a></small></h5>
                     <form class="form-inline">
                         <label class="sr-only" for="name">Name</label>
-                        <input type="text" class="form-control mb-2 mr-sm-2" id="name" placeholder="Link1" aria-describedby="name-help">
+                        <input type="text" class="form-control mb-2 mr-sm-2" id="name" placeholder="Nome do Link" aria-describedby="name-help">
                         <label class="sr-only" for="link">Link (destination)</label>
                         <input type="text" class="form-control mb-2 mr-sm-2" id="link" placeholder="https://example.com">
-                        <button type="submit" id="add-shortlink" class="btn btn-primary mb-2">Add</button>
+                        <button type="submit" id="add-shortlink" class="btn btn-primary mb-2">Adicionar</button>
                     </form>
                 </div>
             </div>
             <div class="d-flex justify-content-center">
                 <div id="spinner" class="spinner-border text-primary" role="status">
-                    <span class="sr-only">Loading...</span>
+                    <span class="sr-only">Aguarde...</span>
                 </div>
             </div>
             <div id="charts"></div>
-            <p class="text-center my-4">powered by <a href="https://github.com/flokX/devShort">devShort</a> v2.1.0 (Latest: <a href="https://github.com/flokX/devShort/releases"><img src="https://img.shields.io/github/release/flokX/devShort.svg" alt="Latest release"></a>, <a href="https://github.com/flokX/devShort/wiki/Installation#update-or-reinstallation">How to update</a>)</p>
+            <p class="text-center my-4">Desenvolvido por: <a href="https://https://github.com/erysouzaofc1/ads-site">J.Erivanilson Souza</a></p>
         </div>
     </main>
 
