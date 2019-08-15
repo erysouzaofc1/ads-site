@@ -1,0 +1,21 @@
+{
+    "installer": {
+        "username": "erivanilson",
+        "password": "Miguel18"
+    },
+    "settings": {
+        "name": "ES News Encurtador de Links",
+        "author": "J,Erivanilson Souza",
+        "home_link": "https://github.com/flokX/devShort",
+        "favicon": "assets/icon.png",
+        "custom_links": {
+            "devShort wiki": "https://github.com/flokX/devShort/wiki",
+            "devShort author": "https://github.com/flokX"
+        }
+    },
+    "shortlinks": {
+        "repo": "https://github.com/flokX/devShort",
+        "wiki": "https://github.com/flokX/devShort/wiki",
+        "author": "https://github.com/flokX"
+    }
+}
